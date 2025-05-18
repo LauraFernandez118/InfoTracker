@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "T1tWbD7va29fWHnBIrux92PPqtY",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "ES",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WxQf5rTuLsIjtnof9BL2cqMexR8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MV_u67cp7iE"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-19T18:45:06Z",
+        "channelId": "UCWNv6vx6WOTN91XGT5OHVXg",
+        "title": "EURO 2024 🏆 (Resumen Completo) 🇪🇸🏆 ESPAÑA Campeón Eurocopa de Alemania",
+        "description": "España Campeón de la Euro 2024 ! En este vídeo de Memorias del Fútbol repasamos la cuarta Eurocopa conquistada por La ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MV_u67cp7iE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MV_u67cp7iE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MV_u67cp7iE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Memorias del Fútbol",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-19T18:45:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hWDNjRt2FmJdHvgWJGR07QNZufw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MfYWd4WNhuQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-16T00:55:43Z",
+        "channelId": "UCWwUI_n-Pw2w2cWA7_YlgfQ",
+        "title": "COPA AMÉRICA VS EUROCOPA #packopening #soccerstickers #panini #topps #copaamerica #eurocopa #soccer",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MfYWd4WNhuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MfYWd4WNhuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MfYWd4WNhuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "byjuanca10",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-16T00:55:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8WXTlUztm4aTcC1gyuwhyHuaAJg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e1Eu3y09zmw"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-14T18:45:06Z",
+        "channelId": "UCWNv6vx6WOTN91XGT5OHVXg",
+        "title": "ESPAÑA Campeón EURO 2024 🇪🇸 🏆 La 4ª Eurocopa de la Roja",
+        "description": "España Campeón de la Euro 2024 ! En este vídeo de Memorias del Fútbol repasamos la cuarta Eurocopa conquistada por La ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e1Eu3y09zmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e1Eu3y09zmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e1Eu3y09zmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Memorias del Fútbol",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-14T18:45:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PanfBDzdeMqNJTX6Uhf0Cru1jmI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NatMDXCf5lc"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-22T00:24:19Z",
+        "channelId": "UCl_SBfy4YJwRbiNipfSxy2A",
+        "title": "ALBUM EUROCOPA 2024 PERÚ ⚽️🏆 #euro #eurocopa #euro2020 #euro2024 #euro2024qualifiersdraw #euro2020",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NatMDXCf5lc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NatMDXCf5lc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NatMDXCf5lc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Colecciones_Dragonay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-22T00:24:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0PAWS8JVSY6yB_UHpJgvfv0RrEc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eE1nCIpTmuE"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-21T09:39:40Z",
+        "channelId": "UCJ_6IzK1E8FJCFBGMQGawSA",
+        "title": "Todos los goles de España en la Eurocopa 2024",
+        "description": "Todos los goles de España en la Eurocopa 2024, partidos contra Croacia, Italia, Albania, Georgia, Alemania, Francia e Inglaterra.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eE1nCIpTmuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eE1nCIpTmuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eE1nCIpTmuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Moisés Ramos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-21T09:39:40Z"
+      }
+    }
+  ]
+}

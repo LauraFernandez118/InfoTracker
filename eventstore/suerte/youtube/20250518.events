@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "jpIrpyBsi5efgskH4gWddqpYYas",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "ES",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j0tuGrA6q-fmbSz9zOerkZ0TZZ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a8Rwz6zBJSE"
+      },
+      "snippet": {
+        "publishedAt": "2009-11-20T06:23:12Z",
+        "channelId": "UCGnjeahCJW1AF34HBmQTJ-Q",
+        "title": "Shakira - Suerte (Whenever, Wherever)",
+        "description": "Official HD Video \"Suerte (Whenever, Wherever)\" by Shakira Listen to Shakira: https://Shakira.lnk.to/listen_YD Watch more videos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a8Rwz6zBJSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a8Rwz6zBJSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a8Rwz6zBJSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "shakiraVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-11-20T06:23:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HlQV_-ASg-ay4iwNhWJ4RlIJXGk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_VYBxEIYZ1o"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-29T23:18:41Z",
+        "channelId": "UCFkew7OWYW2AViFz22dy4Og",
+        "title": "Beny Jr - Suerte",
+        "description": "FREE OMAR Disponible en todas las plataformas digitales: https://links.altafonte.com/beny3O.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_VYBxEIYZ1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_VYBxEIYZ1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_VYBxEIYZ1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beny Jr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-29T23:18:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0IZ646DxtiWj8LS9DzXaA4xPg0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "005KJ4lJ6sE"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-16T00:00:22Z",
+        "channelId": "UCM8F3UFEs95v8nil07Qd80Q",
+        "title": "Cazzu - Mala Suerte (Video Oficial)",
+        "description": "Cazzu - Mala Suerte (Video Oficial) Escuchá Latinaje acá https://orcd.co/latinaje Redes Sociales: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/005KJ4lJ6sE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/005KJ4lJ6sE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/005KJ4lJ6sE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CAZZU Canal Oficial",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-16T00:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ePk8IVvuz3Cm3P-3N3z1Ac3xdd4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KKHnACTgQLw"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-26T15:22:45Z",
+        "channelId": "UC7eoH2EuCZZoowe7QV5xJyA",
+        "title": "Shakira - Suerte (Letra/Lyrics)",
+        "description": "Shakira - Suerte (Letra/Lyrics) ⏬ Descargar: Activa las notificaciones para mantenerte actualizado con nuevos videos!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KKHnACTgQLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KKHnACTgQLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KKHnACTgQLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sunday",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-26T15:22:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CgYvZ3CUEXiq-rAxO0pOPXaHguM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KcGPNBvG7fk"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-20T22:11:08Z",
+        "channelId": "UC6cqZfgydy6Dkywdb5MCIcw",
+        "title": "Shakira — Suerte [Letra]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KcGPNBvG7fk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KcGPNBvG7fk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KcGPNBvG7fk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "armxndo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-20T22:11:08Z"
+      }
+    }
+  ]
+}

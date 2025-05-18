@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "5BlX8E3lBew127Hq1I9YpYRB8_U",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "ES",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jC-JwTe-CoS5Cry2bZ3as41t4-o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ax9ge-ymWIQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-21T14:39:28Z",
+        "channelId": "UCr8RbU-D7iSvpy0ZO-AasoQ",
+        "title": "INNA - Ruleta (feat. Erik) | Official Music Video",
+        "description": "Una vida ganaste en la ruleta ???????? Official music video by INNA performing the single \"Ruleta\" featuring Erik Tchatchoua.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ax9ge-ymWIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ax9ge-ymWIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ax9ge-ymWIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "INNA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-21T14:39:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dgJ4RhSxyxyA3rnNRaH0XiT88BE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LDNX-PaNDgY"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-20T17:16:25Z",
+        "channelId": "UCOpzk2H_FLUoXLtyZCFjgpA",
+        "title": "Estrategia ADN para Ruleta (665% Ganancias) by Juan Sagaz",
+        "description": "Contacto : fb.com/Juansagazoficial instagram.com/ruletpro5 Estrategia ADN. (Nueva) Ganancia: $193.000 Apuesta inicial: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LDNX-PaNDgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LDNX-PaNDgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LDNX-PaNDgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Secretos de Juan Sagaz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-20T17:16:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uLZ41OdaW5k7vwhdBiAuvr4bbn8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AkmslUFjBkI"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-05T19:00:08Z",
+        "channelId": "UCznfVLZqONfXwYwHuDQ1CMg",
+        "title": "La ESTRATEGIA RULETA Ganadora que el 99% de los JUGADORES IGNORA ! (estrategia ruleta casino)",
+        "description": "Esta estrategia de ruleta de casino, poco conocida por el gran público y sin embargo tan eficaz, me la presentó un jugador de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AkmslUFjBkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AkmslUFjBkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AkmslUFjBkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Proba Ruleta",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-05T19:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4X57wutjt4zA6OaRmajv4Z-AOQQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r3DpKBsnzj4"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-27T19:00:06Z",
+        "channelId": "UCqOUk3KNXSgwG5Wre0L65rQ",
+        "title": "El Bobo de las 3000 - La Ruleta",
+        "description": "Disponible en todas plataformas: https://virgin.lnk.to/elbobo3000-laruletaID.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r3DpKBsnzj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r3DpKBsnzj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r3DpKBsnzj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EL BOBO DE LAS 3000",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-27T19:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HBZare7tU0irHpUTjjmkVYxJIKs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yn28dEOMe0U"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-19T16:22:01Z",
+        "channelId": "UCWxehWeu-mN2ZCo3BwzEPCw",
+        "title": "Los Piojos - Ruleta (Con letra)",
+        "description": "El propósito de éste vídeo es sólo escuchar música con su respectiva letra, y no infringir con los derechos de autor. Canción: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yn28dEOMe0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yn28dEOMe0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yn28dEOMe0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Canal Piojoso",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-08-19T16:22:01Z"
+      }
+    }
+  ]
+}

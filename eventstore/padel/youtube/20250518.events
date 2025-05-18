@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "mTZAhrm_JOlavOBN6778fzoGpfc",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "ES",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Vq_2bNzH8xe62Ws3soRf2BUgtQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qgoa0UmdTyk"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-30T15:58:34Z",
+        "channelId": "UCK4TIJK5bXgSUAd7prJWLhg",
+        "title": "SMASH PALA DURA vs BLANDA 🤓🥵",
+        "description": "NOX ha lanzado la nueva AT10 LTD con una cara con goma dura y otra cara con goma blanda... ¿habrá diferencia? @el4Set en ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qgoa0UmdTyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qgoa0UmdTyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qgoa0UmdTyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "el4Set",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-30T15:58:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xia65-vlRC88h-NaRY7yGoixWGo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eSmq_iiumZw"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-18T11:46:18Z",
+        "channelId": "UCDBP9nfxJ4AX5w3rNRKziRQ",
+        "title": "CIRCUITO AJPP TOUR 2025 | ROSARIO | CUARTOS DE FINAL | EN VIVO",
+        "description": "padel #padeltournament #padel #ajpptour Circuito argentino de Pádel Profesional. Semillero del Pádel Mundial.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eSmq_iiumZw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eSmq_iiumZw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eSmq_iiumZw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AJPP Argentina",
+        "liveBroadcastContent": "live",
+        "publishTime": "2025-05-18T11:46:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l9CPxTJcpRiBP82xACyBNeNH46I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WANaUpJTEWE"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-14T11:36:24Z",
+        "channelId": "UCK4TIJK5bXgSUAd7prJWLhg",
+        "title": "LA NUEVA PALA DE TAPIA VERSIÓN ARGENTINA 🇦🇷😍",
+        "description": "Agustín Tapia estrena la nueva NOX AT10 18K Alum Premier Padel Buenos Aires P1 ! @el4Set en Instagram #padel #teamnox ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WANaUpJTEWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WANaUpJTEWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WANaUpJTEWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "el4Set",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-14T11:36:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gogcyLZfHxbNDvUMtTO8YBocxlI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iWaQO1FSe4Q"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-25T17:00:43Z",
+        "channelId": "UCpNwqev9uCJkgH517mbOVTw",
+        "title": "Best Padel Plays Of ALL 2024",
+        "description": "Looking for the perfect padel bag? https://www.mycancha.com/DailyPadel Inquiries: padeltves@gmail.com.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iWaQO1FSe4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iWaQO1FSe4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iWaQO1FSe4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daily Padel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-25T17:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_nrOlPlfMSXIzzcQU6JtZc0SHnE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rSIvS-Skg28"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-02T19:52:06Z",
+        "channelId": "UC7WlJTsecebbmTBObiM9RkA",
+        "title": "What is Padel? Presented by USPTA",
+        "description": "https://uspta.com/ What is Padel? This short, simple video is a perfect explainer.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rSIvS-Skg28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rSIvS-Skg28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rSIvS-Skg28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RSPA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-02T19:52:06Z"
+      }
+    }
+  ]
+}

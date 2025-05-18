@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "zyIMg1iedZuEeSBL2r37JUIXesQ",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "ES",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6YEWIkPoiNXKRaNooH5shULcOkw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LP9CQ8uGHeY"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-16T20:00:09Z",
+        "channelId": "UCQBOAYwPdqzr1TxmjT-91Sg",
+        "title": "Hello Kitty’s Bow Chase | Hello Kitty and Friends Supercute Adventures S2 EP 10",
+        "description": "As Hello Kitty wakes up, her day is flipped upside-down when a bird takes her bow and flies away. The chase begins as Hello ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LP9CQ8uGHeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LP9CQ8uGHeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LP9CQ8uGHeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hello Kitty and Friends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-16T20:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dt5wKWl-jFMdo4-jNcP4KKzuSE4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LiaYDPRedWQ"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-24T03:00:01Z",
+        "channelId": "UCC6XuDtfec7DxZdUa7ClFBQ",
+        "title": "Avril Lavigne - Hello Kitty (Official Video)",
+        "description": "Watch the official music video for \"Hello Kitty\" by Avril Lavigne Listen to Avril Lavigne: https://AvrilLavigne.lnk.to/listen_YD ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LiaYDPRedWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LiaYDPRedWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LiaYDPRedWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AvrilLavigneVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-24T03:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a5dUL9PZkroSu5gXzauCWYoxRN4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tQqDDOFMzZc"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-07T20:45:17Z",
+        "channelId": "UCzMuokLY7D1iJXP5bA0360w",
+        "title": "ANNA, Sillyelly - HELLO KITTY",
+        "description": "ANNA, Sillyelly - HELLO KITTY Stream/Download: Follow ANNA: https://www.instagram.com/annapep3 (Testo/Lyrics): [Strofa 1: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tQqDDOFMzZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tQqDDOFMzZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tQqDDOFMzZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ItalianHype",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-07T20:45:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DglXT-8rEsLRCeW8dk0LSCXkaV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EPzamFCqShY"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-13T23:00:05Z",
+        "channelId": "UCcdwLMPsaU2ezNSJU1nFoBQ",
+        "title": "Baby Shark x Hello Kitty | My Best Friend! | Baby Shark Collaboration | Pinkfong Songs for Children",
+        "description": "Watch Baby Shark Dance ➡️https://www.youtube.com/watch?v=XqZsoesa55w Visit our Official Store: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EPzamFCqShY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EPzamFCqShY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EPzamFCqShY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Baby Shark - Pinkfong Kids’ Songs & Stories",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-13T23:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S3EMlkn8opvqFxGnYPn8gegNBbU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wncB6LwnV_k"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-14T21:00:24Z",
+        "channelId": "UCQBOAYwPdqzr1TxmjT-91Sg",
+        "title": "Season 5 Top 5 Episodes | Hello Kitty and Friends Supercute Adventures",
+        "description": "Hello Friends! Rewatch all your favorite episodes of Hello Kitty and Friends Supercute Adventures with Season 5 Top 5 episodes!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wncB6LwnV_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wncB6LwnV_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wncB6LwnV_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hello Kitty and Friends",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-14T21:00:24Z"
+      }
+    }
+  ]
+}

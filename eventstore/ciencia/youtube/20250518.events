@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "6g2oi8ekkfLBULKmRn-RbQEIjHc",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "ES",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vLzMXtX8pUZ95PEZ3qWF25gUSSE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iqtpZWmozzI"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-27T19:47:25Z",
+        "channelId": "UCMbQbVilo-nezMvwf1BZfAA",
+        "title": "¿Por qué llevamos tanto tiempo sin descubrir elementos nuevos?",
+        "description": "Obtén Nextory gratis durante 40 días a través de este enlace! https://www.nextory.es/cienciadesofa-abril40 En el vídeo de hoy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iqtpZWmozzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iqtpZWmozzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iqtpZWmozzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CienciaDeSofa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-27T19:47:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KHm6i0E0pRDzO_8dUqEswxYdPQQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wx1Rn7FGBcY"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-03T18:04:26Z",
+        "channelId": "UCMbQbVilo-nezMvwf1BZfAA",
+        "title": "El elemento que HA REVOLUCIONADO EL MUNDO",
+        "description": "Consigue NordVPN con un descuento exclusivo en este enlace → https://nordvpn.com/cienciadesofa. ¡Y si no quedas satisfecho ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wx1Rn7FGBcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wx1Rn7FGBcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wx1Rn7FGBcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CienciaDeSofa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-03T18:04:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KIBqg9RosewMpWq9d7kFqht0Ig0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V9Ehir14m-4"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-27T17:30:03Z",
+        "channelId": "UCnfxVwEG_XfRzMTrV1z2kQw",
+        "title": "¿El PADRE de Miwu podrá RESOLVERLO? #miwuscience #miwuscienceespañol #shorts #ciencia",
+        "description": "Enfocados en compartir conocimiento cientifico interesante y divertido, para poder cultivar el interés de los niños en la ciencia.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V9Ehir14m-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V9Ehir14m-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V9Ehir14m-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miwu Science Español",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-27T17:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Odt_H8eI_yJlcpcQnlxYSROjonc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kIq3k2yO-Bw"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-17T17:35:54Z",
+        "channelId": "UC7Z-lo0iZRrIWbdv2E93vfw",
+        "title": "NO EXISTIRÍAN LOS TRANSFORMADORES SI NO FUERA POR ÉL #ingenieria #electricidad #ciencia #historia",
+        "description": "Michael Faraday.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kIq3k2yO-Bw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kIq3k2yO-Bw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kIq3k2yO-Bw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "fringenieros",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-17T17:35:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "86KF9kJLuQzYXXsiI_YgcJ7K1zU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fBdlEWmxLqg"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-17T19:28:15Z",
+        "channelId": "UC52hytXteCKmuOzMViTK8_w",
+        "title": "La ciencia del crucero fantasma",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fBdlEWmxLqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fBdlEWmxLqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fBdlEWmxLqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CdeCiencia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-17T19:28:15Z"
+      }
+    }
+  ]
+}

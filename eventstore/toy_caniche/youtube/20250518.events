@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "l9mxQNuO_9JIyyLmgBQbY4C8KfI",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "ES",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ic-V5PtWb1LFHdMtnGTljyjGeaY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hkuKnOcO41s"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-16T12:25:54Z",
+        "channelId": "UCKp251tztUEiVOw7koHeeWQ",
+        "title": "Comprar un Caniche en España, ¡ojo a los detalles! 🧐",
+        "description": "Más info sobre los Caniches aquí https://www.corralet.com/razas/perros/caniche-toy/ Si quieres comprar un Caniche en ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hkuKnOcO41s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hkuKnOcO41s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hkuKnOcO41s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Corralet | Criadero Perros y Gatos | Razas Mini",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-16T12:25:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VMcF0krst9KLnrVlP16K_-TP4iA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dACT3t-qI7A"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-09T16:00:19Z",
+        "channelId": "UCOoAdT7c0T4jPPRp8yZ65oA",
+        "title": "Caniche Toy (Toy Poodle) Información De Raza De Perro | Perros Mundo",
+        "description": "En este vídeo te explicaremos todo sobre la raza de perro Caniche Toy (Toy Poodle) en base a ocho apartados, para que puedas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dACT3t-qI7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dACT3t-qI7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dACT3t-qI7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Perros Mundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-09T16:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xEd7R3nWruykHh80uZkeD0KaBN4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PfpP6O9KyW4"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-15T18:30:19Z",
+        "channelId": "UCdSgT4-J2XSi658rUgG6nNg",
+        "title": "5 COSAS que NO SABÍAS del CANICHE TOY 🐩💖",
+        "description": "5 CURIOSIDADES sobre el CANICHE TOY que NO SABÍAS ✨Los caniches toy son famosos por su inteligencia y elegancia, pero ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PfpP6O9KyW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PfpP6O9KyW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PfpP6O9KyW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ExpertoAnimal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-15T18:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PVZnNGdGA3ASkQ1UPHXTeNjh7NQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XYcAu8HMa9g"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-16T01:31:51Z",
+        "channelId": "UCadp8xkuM8wRNj82pIua3Tw",
+        "title": "4 aspectos que hasta hoy no sabías sobre el Caniche Toy #dogs #perros #canichetoy",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XYcAu8HMa9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XYcAu8HMa9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XYcAu8HMa9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LadrandoBelleza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-16T01:31:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pXBFAHSjn72tV52cn9-eh1TWPHs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7LH1111SM9I"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-18T14:42:19Z",
+        "channelId": "UCFhJOTvgh6Z6ZnXRsaJfp0g",
+        "title": "Caniche toy, criadero nacional | AgroAnuncios.es",
+        "description": "Disponemos de caniches toy. Son cachorros nacionales, criados por nosotros, en nuestro centro, con pedigrí, inscritos en el libro ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7LH1111SM9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7LH1111SM9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7LH1111SM9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AgroAnuncios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-18T14:42:19Z"
+      }
+    }
+  ]
+}

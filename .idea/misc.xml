@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/eventstore-builder/pom.xml" />
+>>>>>>> eb63d30 (project done)
       </list>
     </option>
   </component>

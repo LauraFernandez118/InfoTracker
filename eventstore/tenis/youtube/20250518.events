@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ImPUurpXcf8zOaOy3HxlaExweSY",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "ES",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h6mBMHMm5jo6UPz3uavMjVPNmWM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1ZiKN8czyFM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-09T11:32:16Z",
+        "channelId": "UCOGFaeAM9YZya2GUgtT10qQ",
+        "title": "#tenis #tennisbackhand #tennisslice Don&#39;t hack at the slice",
+        "description": "Don't hack at the slice by using your wrist ✓ Extend towards your target Forward to a friend who hacks the backhand slice!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1ZiKN8czyFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1ZiKN8czyFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1ZiKN8czyFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Meike Babel Tennis",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-09T11:32:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vxTmoJJ7tNqmoC3ZiVvpLoeHs0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sGrXpsVYDqU"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-17T16:51:08Z",
+        "channelId": "UCaBIVVpHjq6j3tSyxwTE-8Q",
+        "title": "Coco Gauff vs. Jasmine Paolini | 2025 Rome Final | WTA Match Highlights",
+        "description": "Subscribe to the WTA on YouTube: http://www.youtube.com/subscription_center?add_user=WTA Follow the WTA on TikTok: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sGrXpsVYDqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sGrXpsVYDqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sGrXpsVYDqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WTA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-17T16:51:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kYK1t_ZWNIf9KJcLTDpnQudxQq0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xp3hNzdlwEI"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-16T16:11:44Z",
+        "channelId": "UCbcxFkd6B9xUU54InHv4Tig",
+        "title": "Carlos Alcaraz vs Lorenzo Musetti Semi-Final Highlights 💥 | Rome 2025 Highlights",
+        "description": "SUBSCRIBE to our channel for the best ATP tennis videos and tennis highlights: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xp3hNzdlwEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xp3hNzdlwEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xp3hNzdlwEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tennis TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-16T16:11:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SRaz_iOxHdjBaU6gxgF_BkhXrEA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GQeSWV9XOVA"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-16T22:08:37Z",
+        "channelId": "UCbcxFkd6B9xUU54InHv4Tig",
+        "title": "Alcaraz Faces Musetti; Sinner Battles Paul | Rome 2025 Semi-Final Highlights",
+        "description": "SUBSCRIBE to our channel for the best ATP tennis videos and tennis highlights: https://www.youtube.com/tennistv?sub_... Watch ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GQeSWV9XOVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GQeSWV9XOVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GQeSWV9XOVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tennis TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-16T22:08:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fDeGqMGPQOj0jOZovZfgBht8i30",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vgeo1OnfETo"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-16T20:59:35Z",
+        "channelId": "UCbcxFkd6B9xUU54InHv4Tig",
+        "title": "Jannik Sinner Battles Tommy Paul For Place In Rome Final 🤝 | Rome 2025 Highlights",
+        "description": "SUBSCRIBE to our channel for the best ATP tennis videos and tennis highlights: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vgeo1OnfETo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vgeo1OnfETo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vgeo1OnfETo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tennis TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-16T20:59:35Z"
+      }
+    }
+  ]
+}
